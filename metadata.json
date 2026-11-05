@@ -1,0 +1,6 @@
+{
+  "name": "Stockfish Bot Match",
+  "description": "Play chess against configurable Stockfish engine bot personalities with UCI parameter controls, live evaluation, and analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
